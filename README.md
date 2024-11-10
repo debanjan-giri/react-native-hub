@@ -1,1 +1,1 @@
-### 🍿 This repo contain all react-navie project using expo
+### ⚗️ This repo contain all react-navie project using expo
